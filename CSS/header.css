@@ -1,0 +1,24 @@
+#socialMediaUl {
+    float: left;
+    list-style: none;
+    margin-left: 17%;
+    padding-top: 14px;
+}
+
+#socialMediaUl>li { 
+    float: left;
+    margin-right: 33px;
+}
+
+#socialMediaUl>li>a{
+    color: white;
+}
+
+#socialMediaUl>li>a:hover {
+    color: orange;
+}
+
+#topHeaderBleuDiv {
+    background-color: #00AEF0;
+    height: 43px;
+}
